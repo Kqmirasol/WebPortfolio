@@ -60,5 +60,6 @@
 }
 
 .btn:hover {
-  background-color: #008866;
+  background-color: #000000;
+  color: white;
 }
