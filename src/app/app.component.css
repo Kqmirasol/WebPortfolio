@@ -1,0 +1,23 @@
+.custom-navbar {
+  background-color: white !important;
+  border-bottom: 1px solid #696969; /* Thin line at bottom */
+}
+
+.navbar-brand img {
+  height: 100px;
+}
+
+.navbar-nav .nav-link {
+  color: rgb(0, 0, 0) !important;
+  font-size: 16px;
+  font-weight: 500;
+  margin-right: 15px;
+}
+
+.navbar-nav .nav-link.active {
+  color: #639ece !important;
+}
+
+.navbar-toggler {
+  border: none;
+}
