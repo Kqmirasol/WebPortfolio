@@ -1,13 +1,5 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: Arial, sans-serif;
-}
-
 footer {
-  position: fixed;
-  bottom: 0;
+  position: relative;
   width: 100%;
   background-color: rgb(255, 255, 255);
   padding: 10px 0;
@@ -15,8 +7,8 @@ footer {
   font-family: serif;
   text-align: center;
   border-top: 1px solid black;
-
 }
+
 .email a{
   font-size: 24px;
   margin: 20px 0;
